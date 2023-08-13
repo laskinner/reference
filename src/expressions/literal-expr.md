@@ -14,7 +14,7 @@
 
 A _literal expression_ is an expression consisting of a single token, rather than a sequence of tokens, that immediately and directly denotes the value it evaluates to, rather than referring to it by name or some other evaluation rule.
 
-A literal is a form of [constant expression], so is evaluated (primarily) at compile time.
+A literal is a form of [constant expression], so it is evaluated (primarily) at compile time.
 
 Each of the lexical [literal][literal tokens] forms described earlier can make up a literal expression, as can the keywords `true` and `false`.
 
